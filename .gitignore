@@ -2,3 +2,4 @@
 .*.icloud
 .gitkeep
 .idea
+/Payloads/File-Names/traversal/*
